@@ -1,0 +1,6 @@
+{
+  "name": "PacoraWatch AI",
+  "description": "Análisis inteligente de videos de seguridad para el municipio de Pacora: detección de placas, comportamientos sospechosos y asesoría de seguridad local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
